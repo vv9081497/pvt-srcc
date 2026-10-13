@@ -1,7 +1,4 @@
-fastapi
-uvicorn
-aiohttp
 flask
+aiohttp
+aiohttp-socks
 gunicorn
-curl_cffi
-requests
